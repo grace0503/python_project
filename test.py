@@ -63,3 +63,5 @@ def letsgetDetails(cars):
         car.getDetails()
 letsDrive([toyota_rav, bmw_x5, volvo_bus])
 letsgetDetails([toyota_rav, bmw_x5, volvo_bus])
+
+
